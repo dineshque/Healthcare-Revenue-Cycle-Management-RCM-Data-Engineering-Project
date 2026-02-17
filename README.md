@@ -24,7 +24,7 @@ The solution follows **Medallion Architecture** and uses a **metadata-driven ing
 
 ### Medallion Architecture
 
-![Screenshot 2026-02-12 120051_1771356216831.png](./Screenshot 2026-02-12 120051_1771356216831.png "Screenshot 2026-02-12 120051_1771356216831.png")
+<img width="1382" height="827" alt="image" src="https://github.com/user-attachments/assets/adf62b14-a644-4c5e-a033-39decbda8298" />
 
 ```
 Landing Layer → Bronze Layer → Silver Layer → Gold Layer
